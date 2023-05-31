@@ -1,2 +1,2 @@
-# geekynerdyspaces
+# GeekyNerdySpaces
 Personal Project
